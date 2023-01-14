@@ -6,7 +6,9 @@ I also possess a Bachelor of Multimedia (Hons) in Film and Animation with 6 year
 
 I have worked with a range of programming languages and frameworks, ranging from front-end such as Vue and React, to back-end (Node.js, Express) as well as Firebase and MongoDB to hosting all of them on GCP Compute Engine and Huawei Cloud.
 
-In my free time, I love to swim, indoor gym climbing, as well as hiking and muay thai. For a more relaxing hobby, I usually play 🎮 video games, 🧶 crochet and 🍰 bake pastries
+In my free time, I love to swim, indoor gym climbing, as well as hiking and muay thai. For a more relaxing hobby, I usually play 🎮 video games, 🧶 crochet and 🍰 bake pastries.
+
+Visit my [website](https://charleneandrew.com/)! 
 
 <!--
 **Chikoness/Chikoness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
