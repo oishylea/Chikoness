@@ -10,6 +10,10 @@ In my free time, I love to swim, indoor gym climbing, as well as hiking and muay
 
 Visit my [website](https://charleneandrew.com/)! 
 
+[![Charlene A.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Chikoness)](https://github.com/Chikoness/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chikoness&theme=tokyonight)](https://git.io/streak-stats)
+
 <!--
 **Chikoness/Chikoness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
