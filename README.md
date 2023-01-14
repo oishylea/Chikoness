@@ -14,6 +14,8 @@ Visit my [website](https://charleneandrew.com/)!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chikoness&theme=tokyonight)](https://git.io/streak-stats)
 
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikoness" />
+
 <!--
 **Chikoness/Chikoness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
